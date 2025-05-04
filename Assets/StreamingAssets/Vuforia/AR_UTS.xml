@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="terumbukarang_2" size="1.000000 0.595381" />
+    <ImageTarget name="terumbukarang_1" size="1.000000 0.576190" />
+    <ImageTarget name="laut_2" size="1.000000 0.676667" />
+    <ImageTarget name="laut_1" size="1.000000 0.662500" />
+    <ImageTarget name="payau_2" size="1.000000 0.640000" />
+    <ImageTarget name="payau_1" size="1.000000 0.603175" />
+    <ImageTarget name="danau_2" size="1.000000 0.739130" />
+    <ImageTarget name="danau_1" size="1.000000 0.666667" />
+    <ImageTarget name="sungai_2" size="1.000000 0.560938" />
+    <ImageTarget name="sungai_1" size="1.000000 0.563333" />
+  </Tracking>
+</QCARConfig>
