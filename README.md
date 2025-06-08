@@ -1,0 +1,5 @@
+Mixed Reality AR midterm project, Aquatic Life educating kids on the life underwater
+![sc1](https://media.discordapp.net/attachments/1340627906585559051/1381180680498712576/IMG-20250422-WA0020.jpg?ex=6846943f&is=684542bf&hm=0af89a863dca3708c423c439f515939babb330e50eab64af2b31db86633fa6e4&=&format=webp&width=256&height=554)
+![sc2](https://media.discordapp.net/attachments/1340627906585559051/1381180680838320168/IMG-20250422-WA0021.jpg?ex=6846943f&is=684542bf&hm=c107b988f331a83acdcdb01833e436badc0d77e8f1d4c01b01b19927abd7710b&=&format=webp&width=256&height=554)
+![sc3](https://media.discordapp.net/attachments/1340627906585559051/1381180681203355668/Screenshot_2025-04-29-12-01-10-724_com.DefaultCompany.AquaticLife_AR.jpg?ex=6846943f&is=684542bf&hm=3745905e782e089859067e2f13257101357c3c269624ca3646cb3715df2bf748&=&format=webp&width=249&height=554)
+![sc4](https://media.discordapp.net/attachments/1340627906585559051/1381180681551351908/Screenshot_2025-04-29-12-01-35-023_com.DefaultCompany.AquaticLife_AR.jpg?ex=6846943f&is=684542bf&hm=f4194812f7943d68812dc8b660cba7ad0dc72ebe7414eabb33976b75e262b940&=&format=webp&width=249&height=554)
